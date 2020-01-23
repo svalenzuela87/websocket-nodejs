@@ -9,8 +9,8 @@ Pre-requisites:
 
 Running:
 
--Execute by command line the file ../server.js with Node. 
--Browse the file ../index.html .
+-Execute by command line the file ./server.js with Node. 
+-Browse the file ./views/index.html .
 -Control video played.
 
 
